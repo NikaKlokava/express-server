@@ -1,0 +1,7 @@
+# mongo server
+mongodb-6.0.5
+
+# dependencies
+node_modules
+node_modules/*
+
